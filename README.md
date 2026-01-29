@@ -12,3 +12,7 @@ Goals:
 - Deploy smart contracts on Base
 - Learn onchain development step by step
 - Share progress publicly
+## Progress
+
+- Day 1: Repository setup and builder logs
+- Day 2: First smart contracts added
