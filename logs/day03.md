@@ -2,3 +2,7 @@
 
 Today I focused on improving contract documentation
 and writing clearer technical notes.
+### Reflection
+
+Clear documentation makes future development easier.
+Small improvements compound quickly.
