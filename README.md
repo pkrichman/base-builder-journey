@@ -20,3 +20,8 @@ Goals:
 
 - Writing clear documentation is part of building
 - Simple contracts are a strong foundation
+## Milestones
+
+- Repository structured for long-term building
+- Multiple contract versions added
+- Deployment mindset established
