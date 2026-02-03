@@ -25,3 +25,8 @@ Goals:
 - Repository structured for long-term building
 - Multiple contract versions added
 - Deployment mindset established
+## Focus Areas
+
+- Consistent building habits
+- Clear roadmap and milestones
+- Early security awareness
