@@ -7,7 +7,10 @@ pragma solidity ^0.8.20;
  */
 contract SimpleStorageV2 {
     uint256 private value;
-
+    /**
+     * @notice Anyone can update the value.
+     * @dev For learning purposes only. No access control.
+     */
     function set(uint256 _value) public {
         value = _value;
     }
