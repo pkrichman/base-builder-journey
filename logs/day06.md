@@ -2,3 +2,7 @@
 
 Today I documented deployment checklists
 and gas considerations for building on Base.
+### Reflection
+
+Deployment is not just about code.
+Preparation and awareness reduce mistakes.
