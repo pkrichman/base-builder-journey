@@ -30,3 +30,8 @@ Goals:
 - Consistent building habits
 - Clear roadmap and milestones
 - Early security awareness
+## Deployment Focus
+
+- Following structured deployment checklists
+- Being mindful of gas usage
+- Iterating safely on Base
