@@ -12,6 +12,12 @@ contract SimpleStorage {
      * @dev Update the stored value
      * @param _value New value to store
      */
+
+    /**
+     * @dev Simple state update.
+     * Gas usage is minimal due to single storage write.
+     */
+
     function set(uint256 _value) public {
         value = _value;
     }
