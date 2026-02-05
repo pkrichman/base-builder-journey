@@ -35,3 +35,8 @@ Goals:
 - Following structured deployment checklists
 - Being mindful of gas usage
 - Iterating safely on Base
+## Next Steps
+
+- Introduce basic testing
+- Practice deployments on Base
+- Improve developer workflow
