@@ -1,6 +1,8 @@
 # Base Builder Journey
 
-Documenting my journey building and learning on Base.
+This repository documents my journey learning, building,
+and preparing to deploy smart contracts on Base.
+The focus is consistency, clarity, and long-term growth.
 
 Goals:
 - Deploy smart contracts on Base
