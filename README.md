@@ -42,3 +42,7 @@ Goals:
 - Introduce basic testing
 - Practice deployments on Base
 - Improve developer workflow
+## Milestone
+
+- 50+ public commits completed
+- Consistent builder workflow established
