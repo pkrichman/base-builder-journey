@@ -10,3 +10,4 @@ After deployment:
 - Verify contract on block explorer
 - Record deployment details
 - Monitor initial interactions
+This checklist will evolve as deployments become more complex.
