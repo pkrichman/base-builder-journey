@@ -46,3 +46,7 @@ Goals:
 
 - 50+ public commits completed
 - Consistent builder workflow established
+## Ongoing Journey
+
+Building on Base is a long-term process.
+This repository continues to evolve day by day.
