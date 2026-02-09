@@ -11,3 +11,6 @@ Mid-term:
 Long-term:
 - Contribute to open source
 - Build real onchain applications
+Update:
+- Deployment flow documented
+- Ready to practice real deployments on Base
