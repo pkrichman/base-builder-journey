@@ -50,3 +50,7 @@ Goals:
 
 Building on Base is a long-term process.
 This repository continues to evolve day by day.
+## User Perspective
+
+Beyond smart contracts, good products require
+clear UX and thoughtful user flows.
