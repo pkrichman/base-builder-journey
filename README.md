@@ -54,3 +54,8 @@ This repository continues to evolve day by day.
 
 Beyond smart contracts, good products require
 clear UX and thoughtful user flows.
+## Major Milestone
+
+- 100+ public commits achieved
+- Documented builder journey
+- Established long-term foundation
