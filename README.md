@@ -1,5 +1,16 @@
 # Base Builder Journey
 
+This repository is a living record of my public builder journey on Base.
+
+I document:
+- What I learn
+- What I build
+- What I experiment with
+
+Building in public. One commit at a time. 🟦
+
+# Base Builder Journey
+
 This repository documents my journey learning, building,
 and preparing to deploy smart contracts on Base.
 The focus is consistency, clarity, and long-term growth.
