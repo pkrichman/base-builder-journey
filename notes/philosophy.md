@@ -8,3 +8,4 @@ Principles:
 - Consistency over intensity
 
 Strong builders think in years, not days.
+Builders are shaped by time and repetition.
