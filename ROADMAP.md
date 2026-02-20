@@ -14,3 +14,7 @@ Long-term:
 Update:
 - Deployment flow documented
 - Ready to practice real deployments on Base
+Next phase:
+- Real deployments
+- Public demos
+- Deeper ecosystem contributions
