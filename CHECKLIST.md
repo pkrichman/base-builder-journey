@@ -11,3 +11,15 @@ After deployment:
 - Record deployment details
 - Monitor initial interactions
 This checklist will evolve as deployments become more complex.
+# Base Deploy Checklist
+
+Before deploying:
+- Review contract logic
+- Check network (Base mainnet)
+- Verify gas assumptions
+- Prepare explorer verification
+
+After deploying:
+- Save contract address
+- Record tx hash
+- Verify source code
